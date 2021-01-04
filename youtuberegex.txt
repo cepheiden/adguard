@@ -1,3 +1,4 @@
- /^r[0-9]+---sn-.*\.googlevideo\.com$/
- /^r[0-9]+-+sn-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/
- /(^r)+([0-9])\-+([a-z]+)\-([a-z,A-Z,0-9]+\.([a-z])+\.([a-z])+)/
+ #/^r[0-9]+---sn-.*\.googlevideo\.com$/
+ #/^r[0-9]+-+sn-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/
+ #/(^r)+([0-9])\-+([a-z]+)\-([a-z,A-Z,0-9]+\.([a-z])+\.([a-z])+)/
+ /^([A-Za-z])[0-9]\-+[A-Za-z]+\-+[0-9]+[A-Za-z0-9]\-+[A-Za-z0-9]+\.googlevideo\.com/
